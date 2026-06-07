@@ -20,7 +20,7 @@ Building real products with React Native, TypeScript, and Python.
 
 [**FocusDrop**](https://github.com/samuellouren/FocusDrop) — minimalist focus timer for Android  
 React Native · TypeScript · Expo · Jest · AsyncStorage  
-Custom SVG progress ring · 6 unit tests · documented architecture decisions
+Custom SVG progress ring · documented architecture decisions
 
 ---
 
