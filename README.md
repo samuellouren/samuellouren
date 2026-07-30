@@ -25,7 +25,7 @@ Substituiu controle de rota por planilha por visualização de mapa em tempo rea
 **Também já entreguei**
 
 [**Chute do Vidente**](https://github.com/samuellouren/Bolao-copa) — bolão da Copa 2026 com identidade mística: palpites em tempo real, grupos privados, ranking e gamificação com moeda fictícia  
-Node.js · React · API oficial da Copa  
+Node.js · React · API da Copa  
 Nasceu como brincadeira entre amigos, hoje com mais de 25 usuários
 
 [**FocusDrop**](https://github.com/samuellouren/FocusDrop) — timer de foco minimalista para Android  
