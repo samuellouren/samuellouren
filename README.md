@@ -36,7 +36,7 @@ Anel de progresso em SVG customizado · decisões de arquitetura documentadas
 
 **Atualmente estudando**
 
-Cloud & IA · Python · Engenharia de Software na UMJ · Inglês técnico
+Cloud & IA · Python · C · Engenharia de Software na UMJ · Inglês técnico
 
 ---
 
