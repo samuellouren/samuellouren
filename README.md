@@ -18,13 +18,13 @@ Construindo produtos reais com React, React Native, Node.js e TypeScript.
 
 **Projeto em destaque**
 
-**Mapa Farma** — CRM mobile B2B para representantes de vendas de farmácia, feito para cliente pagante e no ar em produção  
+[**Mapa Farma**](https://github.com/samuellouren/Mapa-Farma) — CRM mobile B2B para representantes de vendas de farmácia, feito para cliente pagante e no ar em produção  
 React Native · Node.js · MapLibre/OpenStreetMap  
 Substituiu controle de rota por planilha por visualização de mapa em tempo real
 
 **Também já entreguei**
 
-**Chute do Vidente** — bolão da Copa 2026 com identidade mística: palpites em tempo real, grupos privados, ranking e gamificação com moeda fictícia  
+[**Chute do Vidente**](https://github.com/samuellouren/Bolao-copa) — bolão da Copa 2026 com identidade mística: palpites em tempo real, grupos privados, ranking e gamificação com moeda fictícia  
 Node.js · React · API oficial da Copa  
 Nasceu como brincadeira entre amigos, hoje com mais de 25 usuários
 
