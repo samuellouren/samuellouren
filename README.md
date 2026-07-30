@@ -1,10 +1,10 @@
-### Hi, I'm Samuel 👋
-Full-stack developer based in Maceió, Brazil.
-Building real products with React, React Native, Node.js, and TypeScript.
+### Olá, sou o Samuel 👋
+Desenvolvedor full-stack baseado em Maceió, Brasil.
+Construindo produtos reais com React, React Native, Node.js e TypeScript.
 
 ---
 
-**Current stack**
+**Stack atual**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -16,23 +16,27 @@ Building real products with React, React Native, Node.js, and TypeScript.
 
 ---
 
-**Featured project**
+**Projeto em destaque**
 
-**Mapa Farma** — B2B mobile CRM for pharmacy sales reps, built for a paying client and live in production  
+**Mapa Farma** — CRM mobile B2B para representantes de vendas de farmácia, feito para cliente pagante e no ar em produção  
 React Native · Node.js · MapLibre/OpenStreetMap  
-Replaced spreadsheet-based route tracking with real-time map visualization
+Substituiu controle de rota por planilha por visualização de mapa em tempo real
 
-**Also shipped**
+**Também já entreguei**
 
-[**FocusDrop**](https://github.com/samuellouren/FocusDrop) — minimalist focus timer for Android  
+**Chute do Vidente** — bolão da Copa 2026 com identidade mística: palpites em tempo real, grupos privados, ranking e gamificação com moeda fictícia  
+Node.js · React · API oficial da Copa  
+Nasceu como brincadeira entre amigos, hoje com mais de 25 usuários
+
+[**FocusDrop**](https://github.com/samuellouren/FocusDrop) — timer de foco minimalista para Android  
 React Native · TypeScript · Expo · Jest · AsyncStorage  
-Custom SVG progress ring · documented architecture decisions
+Anel de progresso em SVG customizado · decisões de arquitetura documentadas
 
 ---
 
-**Currently learning**
+**Atualmente estudando**
 
-Cloud & AI · Python · Software Engineering @ UMJ · Technical English
+Cloud & IA · Python · Engenharia de Software na UMJ · Inglês técnico
 
 ---
 
@@ -43,4 +47,4 @@ Cloud & AI · Python · Software Engineering @ UMJ · Technical English
 
 ---
 
-📍 Maceió, AL — open to remote or in-person work
+📍 Maceió, AL — aberto a trabalho remoto ou presencial
